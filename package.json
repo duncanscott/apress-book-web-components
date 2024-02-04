@@ -1,7 +1,7 @@
 {
-  "name": "apress-simple-form-modal-component",
-  "version": "1.0.1",
-  "description": "<h1 align=\"center\">Welcome to apress-book-web-components 👋</h1> <p>   <img alt=\"Version\" src=\"https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000\" />   <a href=\"https://twitter.com/carlosrojas_o\" target=\"_blank\">     <img alt=\"Twitter: carlosrojas_o\" src=\"https://img.shields.io/twitter/follow/carlosrojas_o.svg?style=social\" />   </a> </p>",
+  "name": "duncs-npm-component",
+  "version": "0.0.1",
+  "description": "<h1 align=\"center\">Welcome to My First Publishing</h1>",
   "main": "src/index.js",
   "module": "src/index.js",
   "directories": {
@@ -12,12 +12,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/carlosrojaso/apress-book-web-components.git"
+    "url": "git+https://github.com/duncanscott/apress-book-web-components"
   },
-  "author": "Carlos Rojas",
+  "author": "Duncan Scott",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/carlosrojaso/apress-book-web-components/issues"
+    "url": "https://github.com/duncanscott/apress-book-web-components/issues"
   },
-  "homepage": "https://github.com/carlosrojaso/apress-book-web-components#readme"
+  "homepage": "https://github.com/duncanscott/apress-book-web-components#readme"
 }
